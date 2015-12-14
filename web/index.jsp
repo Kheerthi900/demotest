@@ -12,8 +12,8 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Modified</h1>
+        <h1><a href="http://jenkins:8080/job/FOO/build?token=build">Modified</h1>
         test on versioning!!!!!!!!!!!
-        Modified
+        Modified</a>
     </body>
 </html>
